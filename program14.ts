@@ -1,0 +1,2 @@
+let guest_list = ["bushra","iqra","mehk"];
+guest_list.forEach(guest_list => console.log("Dear",guest_list,",\nI would like to invite you to dinner at my home next Saturday.It would be an honor to have you as my guest and I am sure we would have a great time discussing your achievements and your life experiences.\nPlease let me know if you can attend by replying to this message. I hope to hear back from you soon!\nyour sincerely\n[Madeeha Yaqoob]")); 
